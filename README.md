@@ -1,2 +1,2 @@
 # bigdata_recommendation_yelp
-Yelp dataset recommendation system using big data analysis
+This project is a big data analysis on the Yelp dataset of reviews by different users. By this analysis, a recommendation system was built for the users to be recommended the places of their choice based on their past likes and reviews.
